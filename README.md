@@ -1,2 +1,2 @@
-# resume
-Projects for resume
+# Side-projects
+
